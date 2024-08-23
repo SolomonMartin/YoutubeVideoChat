@@ -47,8 +47,6 @@ This repository contains a Streamlit application that enables users to chat with
 - **get_history(retriever)**: Creates a history-aware retriever to maintain chat history.
 - **Streamlit Interface**: Provides a user-friendly interface to interact with the application.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - [LangChain](https://github.com/langchain-ai/langchain)
